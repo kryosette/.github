@@ -1,5 +1,6 @@
 ## Preview
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bf142918-b185-493e-aa56-f85f113ed517" />
+<img width="1910" height="910" alt="image" src="https://github.com/user-attachments/assets/c02e3dca-2e78-42d1-9c8c-fe8fe8efcbdc" />
+
 
 
 
