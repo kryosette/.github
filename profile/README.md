@@ -1,6 +1,6 @@
 ## Preview
-<img width="1910" height="910" alt="image" src="https://github.com/user-attachments/assets/c02e3dca-2e78-42d1-9c8c-fe8fe8efcbdc" />
 
+<img width="1468" height="827" alt="Screenshot 2025-12-25 at 18 36 16" src="https://github.com/user-attachments/assets/c3807076-f465-468b-a6b3-f6c62d55d448" />
 
 
 
