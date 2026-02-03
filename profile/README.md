@@ -5,7 +5,8 @@
 # everything will be soon! 
 
 # i will try to make the first working demo of the social network in 4-5 months. 
-*03.02.2026
+
+approximately 27.06.2026
 
 <!--
 
