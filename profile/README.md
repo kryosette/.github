@@ -11,6 +11,7 @@ approximately 27.06.2026
 
 I've been developing a social network from scratch for a year now. Key principles: security built into the architecture, minimal dependency on third-party services, fault tolerance, and proprietary algorithms.
 
+```text
 Implemented Basic Functionality:
 • User profile system
 • Friend adding mechanism
@@ -30,14 +31,5 @@ In Near Development:
 • Secure chats (will start with private ones)
 • Transparent Editor
 etc.
+```
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
