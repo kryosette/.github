@@ -9,6 +9,28 @@
 
 approximately 27.06.2026
 
+I've been developing a social network from scratch for a year now. Key principles: security built into the architecture, minimal dependency on third-party services, fault tolerance, and proprietary algorithms.
+
+Implemented Basic Functionality:
+• User profile system
+• Friend adding mechanism
+• Post publishing with comments and polls
+• System of public\private chats
+
+Unique Technological Components: (only the base\prototype is done)
+• Transcendent bridge (with extension to all levels, not just L2)
+• Coolest system of security scanners and detectors
+• Proprietary implementation of onion routing
+• Comprehensive security system of our own development
+• My own in-memory db
+
+In Near Development:
+• RPKI validator
+• Additional network security tools
+• Secure chats (will start with private ones)
+• Transparent Editor
+etc.
+
 <!--
 
 **Here are some ideas to get you started:**
