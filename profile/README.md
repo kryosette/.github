@@ -3,7 +3,7 @@
 <img width="1468" height="827" alt="Screenshot 2025-12-25 at 18 36 16" src="https://github.com/user-attachments/assets/c3807076-f465-468b-a6b3-f6c62d55d448" />
 
 # everything will be soon! 
-**this social network will only be available as a desktop application on linux !**
+**this social network will only be available as a desktop application on linux !** (most likely on x86)
 
 # i will try to make the first working demo of the social network in 4-5 months. 
 
