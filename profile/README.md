@@ -32,4 +32,4 @@ In Near Development:
 • Transparent Editor
 etc.
 ```
-
+Almost all the code will be hidden, but you will be able to see almost every process in real time through the translator and change settings through the editor.
