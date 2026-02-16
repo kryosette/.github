@@ -33,3 +33,5 @@ In Near Development:
 etc.
 ```
 Almost all the code will be hidden, but you will be able to see almost every process in real time through the translator and change settings through the editor.
+
+> There will be features (and already are) that have never existed or have never been implemented in this way.
