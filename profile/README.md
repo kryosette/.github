@@ -36,4 +36,4 @@ Almost all the code will be hidden, but you will be able to see almost every pro
 
 > There will be features (and already are) that have never existed or have never been implemented in this way.
 
-not a single p2p and not a single centralized server
+not a single p2p and not a single centralized server (via buffers and etc)
