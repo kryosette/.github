@@ -37,3 +37,8 @@ Almost all the code will be hidden, but you will be able to see almost every pro
 > There will be features (and already are) that have never existed or have never been implemented in this way.
 
 Production will only take place when everything is ready.
+
+an approximate list of what should be (not everything is here)
+- there is no ICMP
+- all traffic and everything else is visible
+
