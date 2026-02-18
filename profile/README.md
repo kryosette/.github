@@ -45,4 +45,5 @@ an approximate list of what should be (not everything is here)
 - all traffic and everything else is visible
 - almost everything will be stored locally, maybe even everything
 - everything is encrypted (checksums will be checked)
+- only ipv6
 
