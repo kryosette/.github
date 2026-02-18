@@ -42,4 +42,5 @@ an approximate list of what should be (not everything is here)
 - there is no ICMP (there will be a replacement)
 - all traffic and everything else is visible
 - almost everything will be stored locally, maybe even everything
+- everything is encrypted (checksums will be checked)
 
