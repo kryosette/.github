@@ -12,7 +12,8 @@
 
 approximately 27.06.2026
 
-I've been developing a social network from scratch for a year now. Key principles: security built into the architecture, minimal dependency on third-party services, fault tolerance, and proprietary algorithms.
+# I've been developing a social network from scratch for a year now. 
+Key principles: security built into the architecture, minimal dependency on third-party services, fault tolerance, and proprietary algorithms.
 
 ```text
 Implemented Basic Functionality:
