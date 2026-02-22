@@ -2,6 +2,9 @@
 
 <img width="1468" height="827" alt="Screenshot 2025-12-25 at 18 36 16" src="https://github.com/user-attachments/assets/c3807076-f465-468b-a6b3-f6c62d55d448" />
 
+<img width="1469" height="890" alt="Screenshot 2026-02-22 at 17 54 46" src="https://github.com/user-attachments/assets/49c1acb8-0ba8-42a4-ab79-8dcb417f694a" />
+
+
 # everything will be soon! 
 **this social network will only be available as a desktop application on linux !** (most likely on x86)
 
