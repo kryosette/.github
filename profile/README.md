@@ -1,6 +1,5 @@
 ## Preview
 
-<img width="1468" height="827" alt="Screenshot 2025-12-25 at 18 36 16" src="https://github.com/user-attachments/assets/c3807076-f465-468b-a6b3-f6c62d55d448" />
 
 <img width="2940" height="1783" alt="IMG_20260222_215820_936" src="https://github.com/user-attachments/assets/7e5d1536-ea20-4c21-8d4d-bcf3e16b34a7" />
 
