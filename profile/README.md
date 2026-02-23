@@ -50,3 +50,5 @@ an approximate list of what should be (not everything is here)
 - almost everything will be stored locally, maybe even everything
 - everything is encrypted (checksums will be checked)
 
+also a couple of days ago came up with an incredible idea on how to make an architecture with practically no servers, where almost everything will be stored locally, where in theory you'll be able to change a whole lot (who to show a post to, who to hide it from, and infinitely many other things)
+it might also be impossible to block this network
