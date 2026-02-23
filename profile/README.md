@@ -36,6 +36,7 @@ In Near Development:
 • Transparent Editor
 • Translator
 • Replication and etc
+• Local great analyzer
 etc.
 ```
 Almost all the code will be hidden, but you will be able to see almost every process in real time through the translator and change settings through the editor.
