@@ -1,7 +1,7 @@
 ## Preview
 
+<img width="2940" height="1786" alt="IMG_20260224_185047_818" src="https://github.com/user-attachments/assets/93610fa8-71f6-448a-85c4-08d9f96ab8f0" />
 
-<img width="2940" height="1783" alt="IMG_20260222_215820_936" src="https://github.com/user-attachments/assets/7e5d1536-ea20-4c21-8d4d-bcf3e16b34a7" />
 
 
 
