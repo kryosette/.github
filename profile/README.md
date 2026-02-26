@@ -10,7 +10,7 @@
 
 # i will try to make the first working demo of the social network in 4-5 months. 
 
-approximately 27.06.2026
+approximately 27.06.2026 or 22.05.2026
 
 # I've been developing a social network from scratch for a year now. 
 Key principles: security built into the architecture, minimal dependency on third-party services, fault tolerance, and proprietary algorithms.
