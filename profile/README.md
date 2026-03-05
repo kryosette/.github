@@ -15,7 +15,7 @@ approximately 27.06.2026 or 22.05.2026
 # I've been developing a social network from scratch for a year now. 
 Key principles: security built into the architecture, minimal dependency on third-party services, fault tolerance, and proprietary algorithms.
 
-only c/asm without java, ts
+# only c/asm without java, ts
 
 ```text
 Implemented Basic Functionality:
@@ -45,7 +45,7 @@ Almost all the code will be hidden, but you will be able to see almost every pro
 
 > There will be features (and already are) that have never existed or have never been implemented in this way.
 
-Production will only take place when everything is ready.
+# Production will only take place when everything is ready.
 
 an approximate list of what should be (not everything is here)
 - there is no ICMP (there will be a replacement)
