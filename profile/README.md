@@ -9,9 +9,7 @@
 **this social network will only be available as a desktop application on linux !** (most likely on x86)
 Key principles: security built into the architecture, minimal dependency on third-party services, fault tolerance, and proprietary algorithms.
 
-# i will try to make the first working demo of the social network in 4-5 months. 
-
-approximately 17.05.2026 or 18.05.2026
+# i will try to make the first working demo of the social network approximately 17.05.2026
 
 # only c/asm without java, ts
 
